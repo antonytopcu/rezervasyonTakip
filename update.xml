@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="Rezervasyon Programı"> 
+        <version>2.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/antonytopcu/rezervasyonTakip/master/DentistProg.exe</url> 
+        <fileName>DentistProg.exe</fileName> 
+        <md5>613B21F9F02B640E9E9D49ACA5F8CAB8</md5>
+        <description>Update: 02/19/2018:
+        1. Added notification message when the current version is already the latest.</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
